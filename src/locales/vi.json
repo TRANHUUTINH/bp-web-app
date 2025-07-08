@@ -1,0 +1,135 @@
+{
+  "header": {
+    "home": "Trang chủ",
+    "about_us": "Về chúng tôi",
+    "our_products": "Sản phẩm của chúng tôi",
+    "contact": "Liên hệ",
+    "change_language": "Thay đổi ngôn ngữ",
+    "language": {
+      "vi": "Tiếng Việt",
+      "en": "Tiếng Anh",
+      "zh": "Tiếng Trung",
+      "ja": "Tiếng Nhật"
+    }
+  },
+
+  "footer": {
+    "contactUs": "Liên hệ với chúng tôi",
+    "companyLabel": "Công ty",
+    "companyName": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI B.P",
+    "addressLabel": "Địa chỉ",
+    "address": "Lô F1-3, đường N6, Khu công nghiệp Lê Minh Xuân 3, Xã Lê Minh Xuân, Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+    "hotline": "SĐT",
+    "email": "Email",
+    "website": "Website",
+    "taxNumber": "Mã số thuế",
+    "requestQuote": "Gửi"
+  },
+
+  "home_content": {
+    "video_not_supported": "Trình duyệt của bạn không hỗ trợ video.",
+    "hero_title": "CHÀO MỪNG ĐẾN VỚI CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI B.P!",
+    "hero_subtitle": "Chúng tôi cung cấp các giải pháp bao bì chất lượng cao cho doanh nghiệp của bạn.",
+    "cta": "Xem sản phẩm",
+    "about_title": "Giới thiệu công ty",
+    "about_text": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI B.P là công ty chuyên sản xuất các sản phẩm bao bì chất lượng cao, phục vụ cho nhiều ngành công nghiệp khác nhau, với cam kết mang lại giá trị bền vững cho khách hàng.",
+    "partners_title": "Khách hàng & Đối tác"
+  },
+  "about": {
+    "title": "Giới Thiệu Công Ty",
+    "intro": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI B.P là đơn vị hàng đầu trong lĩnh vực sản xuất bao bì chất lượng cao, đáp ứng nhu cầu đa dạng của nhiều ngành công nghiệp.",
+    "product1": "📦 Thùng giấy",
+    "product2": "🛍️ Bao nilon",
+    "product3": "🏷️ Nhãn mác các loại",
+    "experience": "Với hơn 10 năm kinh nghiệm, chúng tôi đã trở thành đối tác tin cậy của nhiều thương hiệu lớn trong và ngoài nước, từ thời trang, thực phẩm đến logistics và thương mại điện tử.",
+    "core_values_title": "Giá Trị Cốt Lõi",
+    "mission_title": "Sứ Mệnh",
+    "mission_text": "Cung cấp giải pháp bao bì bền vững, sáng tạo, góp phần nâng tầm thương hiệu của khách hàng.",
+    "vision_title": "Tầm Nhìn",
+    "vision_text": "Trở thành đơn vị tiên phong và đối tác chiến lược trong ngành bao bì tại khu vực Đông Nam Á.",
+    "innovation_title": "Sáng Tạo",
+    "innovation_text": "Không ngừng cải tiến mẫu mã và quy trình để mang lại sự đột phá trong từng sản phẩm.",
+    "sustain_title": "Phát Triển Bền Vững",
+    "sustain_text": "Ứng dụng nguyên liệu thân thiện môi trường và quy trình sản xuất đạt chuẩn quốc tế.",
+    "customer_title": "Khách Hàng Là Trọng Tâm",
+    "customer_text": "Chúng tôi lắng nghe, thấu hiểu và đồng hành để mang lại giá trị thực sự cho từng đối tác.",
+    "quality_title": "Chất Lượng",
+    "quality_text": "Kiểm soát chất lượng chặt chẽ – cam kết sản phẩm luôn đồng đều và đạt tiêu chuẩn cao nhất.",
+    "certificates_title": "Chứng Chỉ Chúng Tôi Đạt Được",
+    "cert_grs": "GRS (Global Recycled Standard) – Chứng nhận vật liệu tái chế",
+    "cert_epi": "EPI (Environmental Products Inc.) – Công nghệ phân huỷ sinh học bao bì",
+    "cert_fsc": "FSC (Forest Stewardship Council) – Gỗ & giấy từ rừng được quản lý bền vững",
+    "cert_oeko": "OEKO-TEX – Tiêu chuẩn an toàn dệt may không độc hại",
+    "benefits_title": "Phúc Lợi Dành Cho Khách Hàng",
+    "benefit1": "Miễn phí vận chuyển toàn quốc cho tất cả đơn hàng",
+    "benefit2": "Hỗ trợ đổi trả 100% nếu sản phẩm bị lỗi",
+    "benefit3": "Cam kết mang lại sự hài lòng tuyệt đối và trải nghiệm dịch vụ chuyên nghiệp"
+  },
+
+  "contacts": {
+    "contactUs": "Liên hệ với chúng tôi",
+    "address": "Địa chỉ",
+    "companyAddress": "Lô F1-3 đường N6, KCN Lê Minh Xuân 3, Xã Lê Minh Xuân, Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+    "phone": "Điện thoại",
+    "email": "Email",
+    "workingHours": "Giờ làm việc",
+    "sendRequest": "Gửi yêu cầu",
+    "namePlaceholder": "Họ và tên",
+    "emailPlaceholder": "Email của bạn",
+    "phonePlaceholder": "Số điện thoại",
+    "subjectPlaceholder": "Chủ đề",
+    "messagePlaceholder": "Nội dung yêu cầu",
+    "submit": "Gửi",
+    "sending": "Đang gửi...",
+    "emailSuccess": "Gửi email thành công!",
+    "emailError": "Đã có lỗi xảy ra khi gửi email. Vui lòng thử lại.",
+    "errors": {
+      "name": "Tên không được chứa ký tự đặc biệt.",
+      "email": "Email không hợp lệ.",
+      "phone": "Số điện thoại phải từ 10 đến 13 chữ số.",
+      "subject": "Vui lòng nhập tiêu đề (ít nhất 3 ký tự).",
+      "message": "Vui lòng nhập nội dung."
+    },
+    "zaloTooltip": "Nhắn Zalo",
+    "callTooltip": "Gọi ngay"
+  },
+
+  "products": {
+    "title": "Danh Mục Sản Phẩm",
+    "categories": {
+      "carton": {
+        "name": "Thùng giấy",
+        "desc": "Chúng tôi cung cấp các loại hộp carton chất lượng cao với cấu trúc 3, 5 và 7 lớp:\n• Hộp 3 lớp: Một lớp sóng kẹp giữa hai lớp giấy phẳng. Phù hợp với sản phẩm nhẹ như thực phẩm, quần áo, linh kiện điện tử.\n• Hộp 5 lớp: Gồm hai lớp sóng và ba lớp giấy phẳng. Độ bền cao, thích hợp cho đồ gia dụng, thiết bị công nghiệp vừa.\n• Hộp 7 lớp: Ba lớp sóng và bốn lớp giấy phẳng. Cứng cáp nhất, dùng cho sản phẩm nặng, công kênh hoặc vận chuyển đường dài.\n\n✨ Tính năng:\n• Sóng A, B, C, E – tuỳ chọn theo yêu cầu độ cứng.\n• Giấy kraft, tái chế hoặc giấy mỹ thuật cao cấp.\n\n🛠️ Kỹ thuật in:\n• Flexographic: In nhanh, mực nước, phù hợp thiết kế đơn giản.\n• Offset cán màng: Hình ảnh sắc nét, màu rực rỡ, dùng cho bao bì thương hiệu.\n\n✂️ Hộp cắt khuôn:\n• Cắt chính xác theo khuôn, linh hoạt thiết kế (tay cầm, khóa, nắp...).\n\n🎁 Thích hợp:\n• Hộp quà, thực phẩm cao cấp, đồ điện tử.\n🧵 Hộp treo quần áo: Có thanh treo bên trong, giữ quần áo phẳng, không nhăn.\n• Ứng dụng trong thời trang cao cấp, vest, váy, đồng phục xuất khẩu."
+      },
+      "polybag": {
+        "name": "Bao nilon",
+        "desc": "Chúng tôi cung cấp các loại túi poly chất lượng cao với các chất liệu chính như PE, PP, OPP, và màng nhiều lớp:\n• PE (Polyethylene): Mềm, bền, chống nước. Phù hợp với đóng gói thực phẩm, sản phẩm nhạy cảm với độ ẩm. 🍞\n• PP (Polypropylene): Cứng hơn PE, chịu nhiệt. Thích hợp cho thời trang và phụ kiện. 👗\n• OPP (Polypropylene định hướng): Bóng và trong suốt. Dùng cho các sản phẩm cao cấp và túi kín. 💎\n• Màng nhiều lớp: Kết hợp nhiều loại nhựa, tăng độ bền và khả năng bảo vệ. 🔒\n✨ Tính năng:\n• Chống ẩm, chống bụi, chống ánh sáng. ☁️\n• Độ bền cao, chống rách. 💪\n• Tái chế và thân thiện với môi trường. 🌍\n🛠️ Kỹ thuật in:\n• In lõm: Độ phân giải cao, màu sắc sống động.\n• In Flexographic: Tiết kiệm chi phí cho các thiết kế đơn giản.\n• In lụa: Hoàn hảo cho các thiết kế nhỏ và đơn giản. 🖨️\n✂️ Kiểu cắt:\n• Cắt thẳng, cắt góc vai, cắt hộp, cắt quai. ✂️\n🎁 Thích hợp:\n• Đóng gói thực phẩm, thời trang, phụ kiện. 🎽"
+      },
+      "hangtag": {
+        "name": "Hangtag",
+        "desc": "Thẻ treo là phụ kiện không thể thiếu để thể hiện bản sắc thương hiệu và thông tin sản phẩm:\n📄 Chất liệu giấy phổ biến:\n• Giấy Bristol: Nhẵn, cứng, in sắc nét – phù hợp cho thẻ quần áo hoặc phụ kiện.\n• Giấy Couche: Bóng hoặc mờ – hình ảnh sống động, lý tưởng cho thời trang trẻ em hoặc quà tặng.\n• Giấy Ivory: Sáng, chắc chắn – phù hợp cho thời trang cao cấp và mỹ phẩm.\n• Giấy Kraft: Nâu tự nhiên – cảm giác thân thiện môi trường, phù hợp phong cách thủ công, tối giản.\n• Giấy mỹ thuật: Màu sắc và họa tiết đa dạng – mang lại sự sáng tạo và cảm giác cao cấp. ✨\n🎨 Kỹ thuật in:\n• In offset: In rõ nét, phù hợp thiết kế phức tạp.\n• In lụa: In đơn giản, hỗ trợ mực đặc biệt (kim loại, phát sáng). 🖨️\n✂️ Kỹ thuật hoàn thiện:\n• Đục lỗ để gắn dây (tròn, vuông, tùy chỉnh).\n• Cắt khuôn theo hình đặc biệt (logo, bầu dục, tròn).\n• Cán màng: Tăng độ bền, chống trầy.\n• Dập lá: Kim loại nổi bật logo (vàng, bạc...).\n• Dập nổi/chìm: Tạo điểm nhấn sang trọng. 💎\n🎯 Ứng dụng:\n• Phù hợp ngành thời trang, quà tặng, sản phẩm thủ công hoặc cao cấp. 🎁"
+      },
+      "carelabel": {
+        "name": "Nhãn care",
+        "desc": "Nhãn chăm sóc đóng vai trò quan trọng trong việc cung cấp hướng dẫn bảo quản và thể hiện sự chuyên nghiệp của sản phẩm:\n🧵 Chất liệu phổ biến:\n• Ruy băng satin: Bề mặt mịn, bóng – phù hợp thời trang cao cấp và đồ lót.\n• Vải cotton: Mềm mại, thoáng khí – lý tưởng cho quần áo trẻ em và thân thiện môi trường.\n• Vải polyester: Bền, chịu nhiệt – thích hợp đồ thể thao hoặc giặt thường xuyên.\n🎨 Màu sắc:\n• Màu cơ bản: Trắng, đen, xám – giúp dễ đọc.\n• Màu tùy chỉnh: Theo yêu cầu thương hiệu, nổi bật thiết kế.\n• Nhuộm an toàn, không độc hại – giữ màu và an toàn với da. 🌿\n🖨️ Kỹ thuật in:\n• In flexo: Sản lượng lớn, nét in rõ và bền màu.\n• In lụa: Đơn giản, có thể in nổi hoặc bóng.\n• In kỹ thuật số: Đa sắc, sắc nét – thích hợp thiết kế phức tạp.\n✂️ Cắt nhãn:\n• Cắt thẳng: Dán trực tiếp lên sản phẩm.\n• Gấp giữa: In hai mặt – dễ may vào cổ áo hoặc đường may.\n🎯 Ưu điểm:\n• Không phai sau nhiều lần giặt.\n• Giữ thông tin rõ ràng, nâng cao giá trị thương hiệu. 💎"
+      },
+      "sticker": {
+        "name": "Nhãn dán",
+        "desc": "Sticker là giải pháp linh hoạt và nổi bật để quảng bá thương hiệu, thường được dán trực tiếp lên bao bì hoặc sản phẩm:\n🧾 Chất liệu:\n• Giấy decal thường: Dễ sử dụng, chi phí thấp – thích hợp cho tem nhãn đơn giản.\n• Giấy kraft: Chất liệu mộc, vintage – tạo cảm giác thủ công và thân thiện.\n• PVC/PP: Bền, không thấm nước – lý tưởng cho môi trường ẩm hoặc ngoài trời.\n• Nhựa trong suốt: Hiệu ứng “vô hình” – phù hợp với bao bì trong suốt.\n🎨 Kỹ thuật in:\n• In offset hoặc in kỹ thuật số – đảm bảo độ nét và màu sắc chuẩn.\n• In UV – tăng độ bền, chống trầy xước.\n• Cán mờ hoặc cán bóng – nâng cao tính thẩm mỹ.\n🖇️ Hình dáng:\n• Cắt theo khuôn (die-cut)\n• Tròn, vuông, chữ nhật hoặc theo yêu cầu riêng.\n🎯 Ứng dụng:\n• Tem niêm phong, nhãn thương hiệu, mã QR, tem bảo hành.\n• Thường dùng trong ngành thời trang, thực phẩm, mỹ phẩm, và vận chuyển. 🚛"
+      },
+      "wovenlabel": {
+        "name": "Nhãn dệt",
+        "desc": "Nhãn dệt là một yếu tố nhận diện thương hiệu quan trọng, thường được may trực tiếp lên sản phẩm:\n🧵 Chất liệu chính:\n• Polyester: Phổ biến, chắc chắn – độ bền cao và không xổ sợi.\n• Cotton dệt: Mềm mại, cổ điển – mang đến cảm giác thủ công và cao cấp.\n• Taffeta: Nhẹ, mỏng – thường dùng để dệt logo hoặc thông tin đơn giản.\n🎨 Màu sắc:\n• Dệt từ sợi màu – cho độ bền màu vượt trội.\n• Phối màu theo bảng Pantone – đồng bộ với nhận diện thương hiệu.\n• Có thể dệt từ 2 đến 8 màu tùy mẫu. 🌈\n🎨 Phong cách và kỹ thuật:\n• Dệt nền trơn: Logo hoặc chữ nổi bật.\n• Dệt đảo nền: Nền mang họa tiết – tăng tính sáng tạo.\n• Dệt viền nóng hoặc gấp đôi để may lên cổ, lưng, hoặc viền áo.\n✂️ Dạng nhãn:\n• Gấp giữa (center fold)\n• Gấp mỏ (end fold)\n• Dạng thẻ (straight cut)\n🎯 Ưu điểm:\n• Độ bền cao, không bong tróc như nhãn in.\n• Thể hiện đẳng cấp và độ tin cậy cho sản phẩm. 💎"
+      },
+      "box": {
+        "name": "Hộp giấy",
+        "desc": "Chúng tôi cung cấp các loại hộp cao cấp làm từ giấy Duplex và Ivory, kết hợp với công nghệ in offset tiên tiến:\n• Giấy Duplex: Một mặt phủ lớp hoàn thiện sáng, mịn, mặt còn lại màu xám. Độ cứng và bền cao, lý tưởng cho hộp lớn hoặc bao bì chắc chắn. Thường dùng cho bao bì thực phẩm, hàng công nghiệp. 🍫\n• Giấy Ivory: Mịn và trắng sáng, mang lại cảm giác cao cấp. Thường dùng cho mỹ phẩm, hộp quà tặng, sản phẩm thẩm mỹ cao. 💎\n✨ Công nghệ in offset:\n• Hình ảnh sắc nét, màu sắc chân thực.\n• Tiết kiệm chi phí cho đơn hàng lớn.\n• Kết hợp với hiệu ứng hoàn thiện như cán màng mờ/bóng, dập lá, dập nổi, phủ UV. 🖨️\n✂️ Quy trình cắt khuôn:\n• Cắt khuôn chính xác để tạo hình hộp theo thiết kế.\n• Tạo các đặc điểm như nắp, tay cầm, khung đặc biệt. ✂️\n🔨 Lắp ráp hộp:\n• Gấp và dán chắc chắn bằng máy hoặc thủ công.\n• Tùy chọn hoàn thiện: Cán màng mờ/bóng, dập lá, dập nổi, cửa sổ PVC. 🎁\n🎯 Thích hợp:\n• Hộp mỹ phẩm, quà tặng, bao bì thực phẩm cao cấp và sản phẩm có thương hiệu. 🎉"
+      },
+      "accessories": {
+        "name": "Sản phẩm khác",
+        "desc": "Bên cạnh các sản phẩm chính, chúng tôi còn cung cấp nhiều loại phụ kiện và vật tư hỗ trợ đóng gói chuyên nghiệp:\n🔫 Đạn bắn/đạn xỏ: Dùng để gắn thẻ treo hoặc nhãn mác vào sản phẩm – chắc chắn, dễ thao tác.\n🧵 Mắt cáo & dây treo: Dây treo nylon hoặc cotton – có thể in logo, phù hợp gắn thẻ cho thời trang hoặc quà tặng.\n📄 Giấy hút ẩm & túi hút ẩm: Kiểm soát độ ẩm, chống mốc – hỗ trợ in logo hoặc thông tin thương hiệu theo yêu cầu.\n🏠 Hộp nhà cho động vật: Làm từ carton hoặc vật liệu thân thiện môi trường – dễ lắp ráp, tiện vận chuyển, phù hợp thú cưng.\nChúng tôi cung cấp giải pháp bao bì toàn diện, từ sản phẩm chính đến phụ kiện – đảm bảo tính nhận diện thương hiệu và bảo vệ sản phẩm tối ưu."
+      }
+    },
+    "viewImage": "Xem ảnh"
+  }
+}

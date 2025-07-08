@@ -1,0 +1,132 @@
+{
+  "header": {
+    "home": "Home",
+    "about_us": "About Us",
+    "our_products": "Our Products",
+    "contact": "Contact",
+    "change_language": "Change Language",
+    "language": {
+      "vi": "Vietnamese",
+      "en": "English",
+      "zh": "Chinese",
+      "ja": "Japanese"
+    }
+  },
+
+  "footer": {
+    "contactUs": "Contact Us",
+    "companyLabel": "Company",
+    "companyName": "B.P Produce Trading Co., Ltd",
+    "addressLabel": "Address",
+    "address": "Lot F1-3, N6 Road, Le Minh Xuan 3 Industrial Park, Le Minh Xuan Commune, Binh Chanh District, Ho Chi Minh City",
+    "hotline": "Hotline",
+    "email": "Email",
+    "website": "Website",
+    "taxNumber": "Tax Number",
+    "requestQuote": "Submit"
+  },
+
+  "home_content": {
+    "video_not_supported": "Your browser does not support the video.",
+    "hero_title": "Welcome to B.P Manufacturing and Trading Co., Ltd.!",
+    "hero_subtitle": "We provide high-quality packaging solutions for your business.",
+    "cta": "View Products",
+    "about_title": "About Us",
+    "about_text": "B.P Manufacturing and Trading Co., Ltd., Ltd is a company specializing in producing high-quality packaging products for various industries, with a commitment to delivering sustainable value to customers.",
+    "partners_title": "Customers & Partners"
+  },
+  "about": {
+    "title": "About Us",
+    "intro": "We specialize in manufacturing high-quality packaging products.",
+    "product1": "Carton box",
+    "product2": "Plastic bag",
+    "product3": "Label and tag",
+    "experience": "With years of experience, we have served many major brands across industries.",
+    "core_values_title": "Core Value",
+    "mission_title": "Our Mission",
+    "mission_text": "To deliver sustainable and innovative packaging solutions.",
+    "vision_title": "Our Vision",
+    "vision_text": "To become a trusted leading partner in the packaging industry.",
+    "innovation_title": "Innovation",
+    "innovation_text": "Constantly improving to meet the diverse needs of customers.",
+    "sustain_title": "Sustainability",
+    "sustain_text": "We are committed to providing environmentally friendly products.",
+    "customer_title": "Customer Centric",
+    "customer_text": "Always listening and serving with dedication.",
+    "quality_title": "Quality",
+    "quality_text": "Ensuring excellence in every product.",
+    "certificates_title": "Our Certifications",
+    "cert_grs": "GRS (Global Recycled Standard) Certification",
+    "cert_epi": "EPI (Environmental Products Inc.) Certification",
+    "benefits_title": "Customer Benefits",
+    "benefit1": "Free nationwide shipping",
+    "benefit2": "100% return support for defective products",
+    "benefit3": "Committed to absolute customer satisfaction"
+  },
+  "contacts": {
+    "contactUs": "Contact Us",
+    "address": "Address",
+    "companyAddress": "Lot F1-3, N6 Road, Le Minh Xuan 3 Industrial Park, Le Minh Xuan Commune, Binh Chanh District, Ho Chi Minh City",
+    "phone": "Phone",
+    "email": "Email",
+    "workingHours": "Working Hours",
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "Your Email",
+    "phonePlaceholder": "Your Phone",
+    "messagePlaceholder": "Message",
+    "subjectPlaceholder": "Subject",
+    "sendRequest": "Send Request",
+    "submit": "Submit",
+    "sending": "Sending...",
+    "emailSuccess": "Email sent successfully!",
+    "emailError": "An error occurred. Please try again.",
+    "errors": {
+      "name": "Name must not contain special characters.",
+      "email": "Invalid email address.",
+      "phone": "Phone number must be between 10 and 13 digits.",
+      "subject": "Please enter a subject (at least 3 characters).",
+      "message": "Please enter a message."
+    },
+    "zaloTooltip": "Message via Zalo",
+    "callTooltip": "Call now"
+  },
+
+  "products": {
+    "title": "Product Categories",
+    "categories": {
+      "carton": {
+        "name": "Carton box",
+        "desc": "We provide high-quality carton boxes in 3, 5, and 7-layers structures:\n• 3-layers: A corrugated layer between two flat paper layers. Suitable for lightweight products such as food, clothing, electronics.\n• 5-layers: Two corrugated layers and three flat paper layers. More durable, ideal for household goods and medium industrial items.\n• 7-layers: Three corrugated layers and four flat paper layers. Strongest, use for heavy, bulky products and long-distance shipping.\n\n✨ Features:\n• A, B, C, E flute options – customized for stiffness.\n• Kraft paper, recycled or premium art paper.\n\n🛠️ Printing:\n• Flexographic: Fast, water-based ink, ideal for simple designs.\n• Offset with lamination: Sharp images, vibrant colors, great for branded packaging.\n\n✂️ Die-cut boxes:\n• Precise cutting with custom shapes (handles, locks, lids, etc.).\n\n🎁 Applications:\n• Gift boxes, premium food packaging, electronics.\n🧵 Garment boxes with hangers: Keep clothes flat and wrinkle-free.\n• Use in high-end fashion, suits, dresses, export uniforms."
+      },
+      "polybag": {
+        "name": "Poly Bag",
+        "desc": "We offer high-quality poly bags make from PE, PP, OPP, and multi-layer films:\n• PE (Polyethylene): Soft, durable, moisture-resistant. Ideal for packaging food or moisture-sensitive products. 🍞\n• PP (Polypropylene): Tougher than PE, heat-resistant. Perfect for fashion and accessories. 👗\n• OPP (Oriented Polypropylene): Glossy and transparent. Use for premium products and sealed bags. 💎\n• Multi-layer film: Combines different plastics to enhance durability and protection. 🔒\n✨ Features:\n• Moisture, dust, and light resistance. ☁️\n• High strength, tear-resistant. 💪\n• Recyclable and eco-friendly. 🌍\n🛠️ Printing techniques:\n• Gravure printing: High resolution, vibrant colors.\n• Flexographic printing: Cost-effective for simple designs.\n• Silk screen printing: Ideal for small, simple designs. 🖨️\n✂️ Cutting styles:\n• Straight cut, shoulder cut, box cut, handle cut. ✂️\n🎁 Suitable for:\n• Packaging food, fashion, accessories. 🎽"
+      },
+      "hangtag": {
+        "name": "Hangtag",
+        "desc": "Hangtags are essential accessories to showcase brand identity and product information:\n📄 Common paper types:\n• Bristol: Smooth and stiff with sharp printing – great for clothing or accessory tags.\n• Couche: Glossy or matte – vibrant images, ideal for kidswear or gifts.\n• Ivory: Bright and sturdy – perfect for premium fashion or cosmetics.\n• Kraft: Natural brown – eco-friendly look, great for handmade or minimalist brands.\n• Art paper: Variety of colors and textures – ideal for creative and high-end tags. ✨\n🎨 Printing techniques:\n• Offset printing: Sharp results, suitable for complex designs.\n• Screen printing: Simple prints, supports special inks (metallic, glow-in-the-dark). 🖨️\n✂️ Finishing methods:\n• Punching holes (round, square, custom) for strings/hooks.\n• Custom die-cut shapes (circle, oval, logo-based).\n• Lamination: Matte or gloss for durability.\n• Foil stamping: Metallic highlights (gold, silver) for logos.\n• Embossing/Debossing: Adds premium tactile effect. 💎\n🎯 Applications:\n• Suitable for fashion, gifting, handmade or high-end products. 🎁"
+      },
+      "carelabel": {
+        "name": "Care Label",
+        "desc": "Care labels play a vital role in providing maintenance instructions and enhancing product professionalism:\n🧵 Common materials:\n• Satin ribbon: Smooth and glossy – ideal for luxury fashion and lingerie.\n• Cotton fabric: Soft and breathable – great for kidswear and eco-friendly items.\n• Polyester: Durable and heat-resistant – perfect for sportswear and frequent washing.\n🎨 Colors:\n• Basic colors: White, black, grey – ensures readability.\n• Custom colors: Brand-matching for standout design.\n• Safe, non-toxic dyeing – skin-friendly and colorfast. 🌿\n🖨️ Printing techniques:\n• Flexo printing: High volume with clear, durable prints.\n• Screen printing: Simple prints with options for raised or glossy effects.\n• Digital printing: Multicolor, sharp results – suits complex designs.\n✂️ Cutting methods:\n• Straight cut: Attached directly to the product.\n• Center fold: Double-sided print – ideal for sewing into seams.\n🎯 Advantages:\n• Withstands frequent washing.\n• Maintains clear info and reinforces brand value. 💎"
+      },
+      "sticker": {
+        "name": "Stickers",
+        "desc": "Stickers are a versatile and eye-catching solution for branding, typically applied directly to packaging or products:\n🧾 Materials:\n• Standard decal paper: Easy to use and cost-effective – ideal for simple labels.\n• Kraft paper: Rustic and vintage – adds a handmade, eco feel.\n• PVC/PP: Durable and waterproof – great for moist or outdoor environments.\n• Transparent film: “Invisible” effect – perfect for clear packaging.\n🎨 Printing techniques:\n• Offset or digital printing – ensures sharp and accurate colors.\n• UV printing – enhances durability and scratch resistance.\n• Matte or glossy lamination – for a premium finish.\n🖇️ Shapes:\n• Die-cut (custom shape)\n• Round, square, rectangular, or custom shapes.\n🎯 Applications:\n• Seal labels, brand tags, QR codes, warranty stickers.\n• Widely used in fashion, food, cosmetics, and logistics. 🚛"
+      },
+      "wovenlabel": {
+        "name": "Woven Label",
+        "desc": "Woven labels are a key branding element, typically sewn directly onto the product:\n🧵 Main materials:\n• Polyester: Common and durable – fray-resistant and long-lasting.\n• Woven cotton: Soft, classic – offers a handmade, premium feel.\n• Taffeta: Lightweight and thin – ideal for simple logos or texts.\n🎨 Colors:\n• Woven with colored threads – excellent colorfastness.\n• Pantone color matching – consistent with brand identity.\n• Up to 2–8 colors per design. 🌈\n🎨 Styles and techniques:\n• Plain background weaving: Highlights logo or text.\n• Inverted background: Decorative base – adds creativity.\n• Hot-cut or folded edges for easy sewing on collar, hem, or sleeve.\n✂️ Label types:\n• Center fold\n• End fold\n• Straight cut (tag style)\n🎯 Advantages:\n• High durability, unlike printed labels that may peel.\n• Adds a touch of class and trust to the product. 💎"
+      },
+      "box": {
+        "name": "Paper Box",
+        "desc": "We offer premium boxes made from Duplex and Ivory paper, combined with advanced offset printing technology:\n• Duplex paper: One side coated with a smooth, glossy finish, while the other side is typically gray. High rigidity and durability, ideal for larger boxes or products needing sturdy packaging. Commonly used for food packaging, industrial goods. 🍫\n• Ivory paper: Both sides are smooth and bright white, giving a premium feel. Popular for cosmetics, gift boxes, and high-aesthetic products. 💎\n✨ Offset printing technology:\n• Crisp images, true-to-life colors.\n• Cost-effective for large orders.\n• Can be combined with finishing effects like matte/gloss lamination, foil stamping, embossing, or spot UV. 🖨️\n✂️ Die-cutting process:\n• Precise die-cutting to shape boxes as per the design.\n• Can create features like lids, handles, or special frames. ✂️\n🔨 Box assembly:\n• Folded and glued securely by machine or by hand.\n• Finishing options: Matte/gloss lamination, foil stamping, embossing, PVC window. 🎁\n🎯 Suitable for:\n• Cosmetic boxes, gift packaging, premium food packaging, and branded products. 🎉"
+      },
+      "accessories": {
+        "name": "Another products",
+        "desc": "Besides our main product lines, we offer a wide range of packaging accessories and materials:\n🔫 Tag pins & tag guns: For attaching tags or labels to garments – durable and friendly usage.\n🧵 Eyelets & hanging strings: Nylon or cotton strings – customizable with logo print, ideal for fashion or gifting.\n📄 Desiccant paper & moisture bags: Moisture control to prevent mold – available with custom logo or branding.\n🏠 Pet house box: Made from eco-friendly cardboard – easy to assemble and transport, perfect for pets.\nWe deliver a complete packaging solution from core products to accessories – ensuring product protection and brand recognition."
+      }
+    },
+    "viewImage": "View Image"
+  }
+}

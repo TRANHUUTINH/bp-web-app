@@ -80,7 +80,7 @@ const Home = () => {
           </div>
           <div>
             <h3 className="text-4xl font-bold text-green-700">
-              <CountUp end={100} duration={3} />
+              <CountUp end={100} duration={3} />+
             </h3>
             <p className="text-gray-600 mt-2">{t("stats.employees")}</p>
           </div>

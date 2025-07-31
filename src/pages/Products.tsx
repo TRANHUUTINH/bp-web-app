@@ -189,9 +189,9 @@ const Products = () => {
               <button
                 key={key}
                 onClick={() => handleCategoryClick(key)}
-                className={`w-full h-16 text-left px-4 py-3 text-sm font-semibold border-2 shadow-md text-white transition ${
+                className={`w-full h-24 text-left px-6 py-4 text-2xl font-bold border-2 shadow-md text-white transition rounded-lg ${
                   selectedCategory === key
-                    ? `${categoryColors[key]} border-black`
+                    ? `${categoryColors[key]} border-black scale-105`
                     : `${categoryColors[key]} opacity-80 border-transparent`
                 }`}
               >
@@ -206,9 +206,9 @@ const Products = () => {
             <button
               key={key}
               onClick={() => handleCategoryClick(key)}
-              className={`w-full h-16 md:h-20 text-sm font-semibold border-2 shadow-md text-white transition ${
+              className={`w-full h-28 text-2xl font-bold border-2 shadow-md text-white transition rounded-lg ${
                 selectedCategory === key
-                  ? `${categoryColors[key]} border-black`
+                  ? `${categoryColors[key]} border-black scale-105`
                   : `${categoryColors[key]} opacity-80 border-transparent`
               }`}
             >

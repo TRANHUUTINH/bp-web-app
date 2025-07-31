@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import CountUp from "react-countup"; // 👈 import thư viện đếm số
 
 const Home = () => {
   const navigate = useNavigate();
@@ -60,6 +61,7 @@ const Home = () => {
         </div>
       </div>
 
+      {/* About */}
       <section className="max-w-5xl mx-auto px-4 py-16 text-center">
         <h2 className="text-2xl font-semibold mb-4 text-green-800">
           {t("home_content.about_title")}
@@ -67,6 +69,37 @@ const Home = () => {
         <p className="text-green-900">{t("home_content.about_text")}</p>
       </section>
 
+      {/* Số liệu đếm động */}
+      <section className="bg-white py-12">
+        <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-center">
+          <div>
+            <h3 className="text-4xl font-bold text-green-700">
+              <CountUp end={15} duration={3} />+
+            </h3>
+            <p className="text-gray-600 mt-2">Năm kinh nghiệm</p>
+          </div>
+          <div>
+            <h3 className="text-4xl font-bold text-green-700">
+              <CountUp end={100} duration={3} />
+            </h3>
+            <p className="text-gray-600 mt-2">Nhân viên</p>
+          </div>
+          <div>
+            <h3 className="text-4xl font-bold text-green-700">
+              <CountUp end={200} duration={3} />+
+            </h3>
+            <p className="text-gray-600 mt-2">Khách hàng</p>
+          </div>
+          <div>
+            <h3 className="text-4xl font-bold text-green-700">
+              <CountUp end={1000} duration={3} />+
+            </h3>
+            <p className="text-gray-600 mt-2">Dự án hoàn thành</p>
+          </div>
+        </div>
+      </section>
+
+      {/* Đối tác */}
       <section className="bg-green-50 py-16">
         <div className="max-w-6xl mx-auto px-4">
           <h2 className="text-2xl font-semibold text-center mb-8 text-green-800">

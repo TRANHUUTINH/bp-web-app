@@ -18,7 +18,7 @@
     "companyLabel": "Công ty",
     "companyName": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI B.P",
     "addressLabel": "Địa chỉ",
-    "address": "Lô F1-3, đường N6, Khu công nghiệp Lê Minh Xuân 3, Xã Lê Minh Xuân, Huyện Bình Chánh, Thành phố Hồ Chí Minh",
+    "address": "Lô F1-3, đường N6, Khu công nghiệp Lê Minh Xuân 3, Xã Lê Minh Xuân, Thành phố Hồ Chí Minh",
     "hotline": "SĐT",
     "email": "Email",
     "website": "Website",
@@ -100,6 +100,10 @@
       "carton": {
         "name": "Thùng giấy",
         "desc": "Chúng tôi cung cấp các loại hộp carton chất lượng cao với cấu trúc 3, 5 và 7 lớp:\n• Hộp 3 lớp: Một lớp sóng kẹp giữa hai lớp giấy phẳng. Phù hợp với sản phẩm nhẹ như thực phẩm, quần áo, linh kiện điện tử.\n• Hộp 5 lớp: Gồm hai lớp sóng và ba lớp giấy phẳng. Độ bền cao, thích hợp cho đồ gia dụng, thiết bị công nghiệp vừa.\n• Hộp 7 lớp: Ba lớp sóng và bốn lớp giấy phẳng. Cứng cáp nhất, dùng cho sản phẩm nặng, công kênh hoặc vận chuyển đường dài.\n\n✨ Tính năng:\n• Sóng A, B, C, E – tuỳ chọn theo yêu cầu độ cứng.\n• Giấy kraft, tái chế hoặc giấy mỹ thuật cao cấp.\n\n🛠️ Kỹ thuật in:\n• Flexographic: In nhanh, mực nước, phù hợp thiết kế đơn giản.\n• Offset cán màng: Hình ảnh sắc nét, màu rực rỡ, dùng cho bao bì thương hiệu.\n\n✂️ Hộp cắt khuôn:\n• Cắt chính xác theo khuôn, linh hoạt thiết kế (tay cầm, khóa, nắp...).\n\n🎁 Thích hợp:\n• Hộp quà, thực phẩm cao cấp, đồ điện tử.\n🧵 Hộp treo quần áo: Có thanh treo bên trong, giữ quần áo phẳng, không nhăn.\n• Ứng dụng trong thời trang cao cấp, vest, váy, đồng phục xuất khẩu."
+      },
+      "cathouse": {
+        "name": "Hợp nhà cho động vật",
+        "desc": "🐾 Nhà Mèo Carton Cao Cấp – Bền Bỉ, An Toàn & Thân Thiện với Môi Trường 🐾\n\nBạn đang tìm một ngôi nhà vừa ấm áp, vừa chắc chắn cho “boss” của mình? Hãy khám phá nhà mèo được làm từ carton 3, 5, 7 lớp – lựa chọn hoàn hảo cho cả mèo cưng và môi trường!\n\n📦 Chất liệu vượt trội:\n• Carton 3 lớp: Nhẹ nhàng – Phù hợp cho nhà mèo di động hoặc kích thước nhỏ.\n• Carton 5 lớp: Chắc chắn – Lý tưởng cho nhà mèo cỡ trung, phù hợp với mèo năng động.\n• Carton 7 lớp: Siêu cứng – Dành cho mèo lớn hoặc cần không gian rộng rãi, ổn định.\n\n💡 Thiết kế thông minh:\n• Tuỳ chỉnh kiểu dáng với cửa, lỗ thông gió, tay xách, nắp khóa...\n• Giấy kraft, tái chế hoặc mỹ thuật – thân thiện và thẩm mỹ.\n\n🎨 In ấn nổi bật:\n• In Flexo: Logo, tên boss, họa tiết dễ thương – tiết kiệm, thân thiện môi trường.\n• In Offset: Phiên bản cao cấp – hình sắc nét, màu rực rỡ, nâng tầm không gian thú cưng.\n\n😻 Bàn cào móng đi kèm – làm từ nhiều lớp carton 5 lớp, giúp boss vui chơi, thư giãn mỗi ngày."
       },
       "polybag": {
         "name": "Bao nilon",

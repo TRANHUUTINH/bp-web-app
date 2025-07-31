@@ -18,7 +18,7 @@
     "companyLabel": "Company",
     "companyName": "B.P Produce Trading Co., Ltd",
     "addressLabel": "Address",
-    "address": "Lot F1-3, N6 Road, Le Minh Xuan 3 Industrial Park, Le Minh Xuan Commune, Binh Chanh District, Ho Chi Minh City",
+    "address": "Lot F1-3, Road N6, Le Minh Xuan 3 Industrial Park, Le Minh Xuan Commune, Ho Chi Minh City",
     "hotline": "Hotline",
     "email": "Email",
     "website": "Website",
@@ -97,6 +97,10 @@
       "carton": {
         "name": "Carton box",
         "desc": "We provide high-quality carton boxes in 3, 5, and 7-layers structures:\n• 3-layers: A corrugated layer between two flat paper layers. Suitable for lightweight products such as food, clothing, electronics.\n• 5-layers: Two corrugated layers and three flat paper layers. More durable, ideal for household goods and medium industrial items.\n• 7-layers: Three corrugated layers and four flat paper layers. Strongest, use for heavy, bulky products and long-distance shipping.\n\n✨ Features:\n• A, B, C, E flute options – customized for stiffness.\n• Kraft paper, recycled or premium art paper.\n\n🛠️ Printing:\n• Flexographic: Fast, water-based ink, ideal for simple designs.\n• Offset with lamination: Sharp images, vibrant colors, great for branded packaging.\n\n✂️ Die-cut boxes:\n• Precise cutting with custom shapes (handles, locks, lids, etc.).\n\n🎁 Applications:\n• Gift boxes, premium food packaging, electronics.\n🧵 Garment boxes with hangers: Keep clothes flat and wrinkle-free.\n• Use in high-end fashion, suits, dresses, export uniforms."
+      },
+      "cathouse": {
+        "name": "Premium Cardboard House for Pets",
+        "desc": "🐾 Premium Cat House – Durable, Safe & Eco-Friendly 🐾\n\nLooking for a warm and sturdy home for your furry boss? Discover our cat house made from 3, 5, and 7-layer carton – a perfect choice for both your pet and the planet!\n\n📦 Superior Materials:\n• 3-layer carton: Lightweight – Ideal for small or mobile cat houses.\n• 5-layer carton: Strong – Perfect for medium-sized houses and active cats.\n• 7-layer carton: Ultra-rigid – For larger cats or stable long-term setups.\n\n💡 Smart & Stylish Design:\n• Customizable with doors, air vents, handles, locking lids, etc.\n• Eco-friendly materials: kraft, recycled, or premium art paper.\n\n🎨 Outstanding Printing:\n• Flexo: Logo, cat name, cute patterns – budget-friendly and green.\n• Offset: Premium version – sharp images, vivid colors, for a standout pet space.\n\n😻 Comes with a scratch pad – made from tightly layered 5-layer carton, giving your cat fun and comfort daily."
       },
       "polybag": {
         "name": "Poly Bag",

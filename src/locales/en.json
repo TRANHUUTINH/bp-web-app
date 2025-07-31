@@ -35,6 +35,12 @@
     "about_text": "B.P Manufacturing and Trading Co., Ltd., Ltd is a company specializing in producing high-quality packaging products for various industries, with a commitment to delivering sustainable value to customers.",
     "partners_title": "Customers & Partners"
   },
+  "stats": {
+  "experience": "Years of experience",
+  "employees": "Employees",
+  "customers": "Customers",
+  "projects": "Completed projects"
+},
   "about": {
     "title": "About Us",
     "intro": "We specialize in manufacturing high-quality packaging products.",

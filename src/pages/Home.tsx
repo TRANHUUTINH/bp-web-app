@@ -76,25 +76,25 @@ const Home = () => {
             <h3 className="text-4xl font-bold text-green-700">
               <CountUp end={15} duration={3} />+
             </h3>
-            <p className="text-gray-600 mt-2">Năm kinh nghiệm</p>
+            <p className="text-gray-600 mt-2">{t("stats.experience")}</p>
           </div>
           <div>
             <h3 className="text-4xl font-bold text-green-700">
               <CountUp end={100} duration={3} />
             </h3>
-            <p className="text-gray-600 mt-2">Nhân viên</p>
+            <p className="text-gray-600 mt-2">{t("stats.employees")}</p>
           </div>
           <div>
             <h3 className="text-4xl font-bold text-green-700">
               <CountUp end={200} duration={3} />+
             </h3>
-            <p className="text-gray-600 mt-2">Khách hàng</p>
+            <p className="text-gray-600 mt-2">{t("stats.customers")}</p>
           </div>
           <div>
             <h3 className="text-4xl font-bold text-green-700">
               <CountUp end={1000} duration={3} />+
             </h3>
-            <p className="text-gray-600 mt-2">Dự án hoàn thành</p>
+            <p className="text-gray-600 mt-2">{t("stats.projects")}</p>
           </div>
         </div>
       </section>

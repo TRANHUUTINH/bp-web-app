@@ -35,6 +35,12 @@
     "about_text": "B.P 生产贸易有限公司 是一家专门生产高质量包装产品的公司，服务于多个行业，并致力于为客户提供可持续的价值。",
     "partners_title": "客户与合作伙伴"
   },
+  "stats": {
+    "experience": "年经验",
+    "employees": "员工",
+    "customers": "客户",
+    "projects": "完成的项目"
+  },
 
   "about": {
     "title": "公司介绍",
